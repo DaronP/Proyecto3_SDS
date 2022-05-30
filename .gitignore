@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataframe.pkl
+malimg_paper_dataset_imgs/*
+benign_model.h5
