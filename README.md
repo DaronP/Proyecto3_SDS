@@ -31,4 +31,5 @@ Jorge Perez
 - Incorrectas:  164
 - Test accuracy con datos limpios en modelo robusto: 86.82%
 - ROC AUC on clean samples: 95.70%
-- Correctas:  889 Incorrectas:  135
+- Correctas:  889 
+- Incorrectas:  135
